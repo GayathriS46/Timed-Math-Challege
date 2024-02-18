@@ -1,5 +1,5 @@
 # Timed Math Challenge
-This Python script implements a timed math challenge game. Players are presented with random arithmetic problems and must solve them within a set time limit. The game including addition, subtraction, multiplication, and division.
+This Python script implements a timed math challenge game. Players are presented with random arithmetic problems and must solve them and show time. The game including addition, subtraction, multiplication, and division.
 
 ## How to Play
 
